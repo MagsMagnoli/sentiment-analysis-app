@@ -21,6 +21,5 @@ A premium sentiment analysis application that makes use of the following:
 - Set stripe publishable key in `config.ts`
 - Deploy functions via `firebase deploy --only functions`
 - Deploy firestore rules via `firebase deploy --only rules`
-- Set firebase function URLs in `config.ts`
 - Deploy app using `firebase deploy --only hosting`
 - Test stripe integration on site via `firebase open hosting:site`
